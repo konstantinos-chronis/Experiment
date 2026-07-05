@@ -1,2 +1,2 @@
 # Experiment
-Verifying PAT...
+Verifying PAT
